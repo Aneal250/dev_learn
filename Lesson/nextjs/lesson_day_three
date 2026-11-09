@@ -1,0 +1,19 @@
+
+Lesson Day 3 
+
+- Recap 
+- Pre Requirement 
+    - HTML
+    - CSS
+    - Javascript
+    - React  Check the link https://nextjs.org/learn/react-foundations
+
+
+section 
+Package Manager
+These are all JavaScript/Node.js package managers and runtimes. They help you install dependencies such as React, Next.js, TypeScript, and other libraries.
+
+- npm
+- yarn
+- pnpm
+- bun
